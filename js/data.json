@@ -1,0 +1,50 @@
+{
+
+    "carts":[
+        {
+            "id": 1 ,
+            "image":"../img/",
+            "title":"",
+            "content":"",
+            "update":""
+        },
+        {
+            "id": 2 ,
+            "image":"",
+            "title":"",
+            "content":"",
+            "update":""
+        },
+        {
+            "id": 3 ,
+            "image":"",
+            "title":"",
+            "content":"",
+            "update":""
+        }
+    ],
+    "footer-ul":[
+        {
+            "id": 1 ,
+            "ul-title": "" ,
+            "item1":"",
+            "item2":"",
+            "item3":""
+        },
+        {
+            "id": 2 ,
+            "ul-title": "" ,
+            "item1":"",
+            "item2":"",
+            "item3":""
+        },
+        {
+            "id": 3 ,
+            "ul-title": "" ,
+            "item1":"",
+            "item2":"",
+            "item3":""
+        }
+    ]
+
+}
