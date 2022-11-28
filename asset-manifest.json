@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Shopping-Website-React/static/css/main.247a8dea.css",
-    "main.js": "/Shopping-Website-React/static/js/main.5fd77f50.js",
+    "main.js": "/Shopping-Website-React/static/js/main.292f7a63.js",
     "static/js/787.758bea28.chunk.js": "/Shopping-Website-React/static/js/787.758bea28.chunk.js",
     "static/media/doughnuts-1868573_960_720.jpg": "/Shopping-Website-React/static/media/doughnuts-1868573_960_720.2f704c82cf6a9e239a2a.jpg",
     "static/media/telephone-1460517_960_720.webp": "/Shopping-Website-React/static/media/telephone-1460517_960_720.bbacac29ceef506a9d25.webp",
@@ -11,11 +11,11 @@
     "static/media/telephone-4440525_960_720.jpg": "/Shopping-Website-React/static/media/telephone-4440525_960_720.93ef8c647b5e7c5801b2.jpg",
     "index.html": "/Shopping-Website-React/index.html",
     "main.247a8dea.css.map": "/Shopping-Website-React/static/css/main.247a8dea.css.map",
-    "main.5fd77f50.js.map": "/Shopping-Website-React/static/js/main.5fd77f50.js.map",
+    "main.292f7a63.js.map": "/Shopping-Website-React/static/js/main.292f7a63.js.map",
     "787.758bea28.chunk.js.map": "/Shopping-Website-React/static/js/787.758bea28.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.247a8dea.css",
-    "static/js/main.5fd77f50.js"
+    "static/js/main.292f7a63.js"
   ]
 }
