@@ -1,0 +1,69 @@
+#logo{
+    width: 160px;
+}
+
+header li{
+    font-size: 50px;
+}
+
+.nav-one .header-links{
+    font-weight: bolder;
+    font-size: 95%;
+}
+
+.header-form-wrapper{
+    right: 8%;
+}
+
+@media (max-width : 460px){
+    header{
+        height: 340px;
+    }
+    .header-link{
+        margin-top: -95px;
+    }
+    .header-form-wrapper {
+        right: -5%;
+    }
+    .header-links{
+        display: flex;
+    }
+}
+
+@media(min-width:495px) and (max-width:550px){
+    .col-7 {
+        flex: 0 0 58.333333%;
+        max-width: 58.333333%;
+        display: flex;
+    }
+    #logo {
+        width: 160px;
+        position: absolute;
+        top: -118px;
+    }
+    .header-form-wrapper {
+        right: -3%;
+    }
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(min-width:455px) and (max-width:490px){
+    .header-links{
+        display: flex;
+    }
+}
